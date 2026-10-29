@@ -57,7 +57,7 @@ if (sexo == 'M') {
 
 ## Meu começo como dev
 
-No começo era muita dúvida, muita curiosidade e alguns erros no código. Mas foi justamente assim que eu comecei a aprender.
+Muita curiosidade e alguns erros no código. Mas foi justamente assim que eu comecei a aprender.
 
 Esses exercícios marcaram o começo da minha jornada como desenvolvedor. Eles podem parecer simples, mas foram importantes para me ajudar a pensar melhor, entender lógica e ganhar confiança para continuar estudando.
 
